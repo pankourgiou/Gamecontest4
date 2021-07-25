@@ -35,7 +35,7 @@ for i in range(10):
         print("player 2 wins-->You can play KickTheBuddy")
         player2_score = player3_score + 1
     else:
-        print("It's a draw-->It's a draw-->stop playing")
+        print("It's a draw-->stop playing")
     if player2_value > player3_value:
         print("player 2 wins-->You can play football")
         player2_score = player3_score + 1  # This is how we increment a variable
